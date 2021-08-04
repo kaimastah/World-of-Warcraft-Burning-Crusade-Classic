@@ -22,7 +22,7 @@ These options are also required but they can be changed after installing the fix
 
 ___Installation
 
-Copy the contents of the Fix folder to your Burning Crusade Classic install path ( e.g. C:\Games\World of Warcraft\_classic_ )
+Copy the contents of this fix to your Burning Crusade Classic install path ( e.g. C:\Games\World of Warcraft\_classic_ )
 
 
 
