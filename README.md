@@ -6,7 +6,9 @@ ___Required Settings
 Launch the game and set the following options before installing the fix:
 
 • Graphics -> Vertical Sync: Enabled
+
 • Advanced -> Triple Buffering: Enabled
+
 • Advanced -> Graphics API: DirectX 11 Legacy
 
 Log on a character and enter this in chat to enable the stereo software mouse cursor:
@@ -15,7 +17,9 @@ Log on a character and enter this in chat to enable the stereo software mouse cu
 These options are also required but they can be changed after installing the fix:
 
 • Liquid Detail: Low or Ultra
+
 • Sunshafts: Disabled or High
+
 • SSAO: Enabled
 
 
